@@ -7,6 +7,10 @@ export default function Home() {
       <p style={{ fontSize: '1.2rem', color: '#444', marginTop: '1rem' }}>
         Gestión de pacientes y citas médicas - Proyecto Educa360.
       </p>
+      <p style={{ fontSize: '1.2rem', color: '#0040ff', marginTop: '1rem' }}>
+        Prueba de pull request.
+      </p>
+
     </main>
   );
 }
